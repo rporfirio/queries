@@ -14,6 +14,7 @@ SELECT
 		NULL) "Other School"
 	,student.CURRENT_GRADE "Current Year"
 	,student.CLASS_YR "Class"
+
 FROM
 	Z_V_STUDENT_CURRENT student
 	
